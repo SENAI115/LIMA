@@ -1,2 +1,3 @@
-# lima
+# Lima
 Trabalhos da matéria LIMA
+Em cada pasta você encontrará o conteúdo das aulas, com exercícios.
